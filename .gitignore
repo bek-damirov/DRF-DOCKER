@@ -1,0 +1,4 @@
+venv/
+.idea/
+app/accounts/migrations/
+app/posts/migrations/
