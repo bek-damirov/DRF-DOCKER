@@ -10,6 +10,11 @@ docker-compose up -d,
 
 docker-compose exec db psql --username=test_user --dbname=test_db.
 
+документация:
+
+/redoc
+/swagger
+
 
 api/accounts/register/quest/ только для просмотра,
 api/accounts/register/author/- регистрация автора может создавать посты и комментарии,
