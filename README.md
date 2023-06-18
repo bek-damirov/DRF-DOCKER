@@ -13,6 +13,7 @@ docker-compose exec db psql --username=test_user --dbname=test_db.
 документация:
 
 /redoc
+
 /swagger
 
 
