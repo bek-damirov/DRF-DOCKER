@@ -3,7 +3,9 @@ Django-REST, по созданию постов, комментариев к н�
 Завернут в Docker с базой данных Postgres.
 запуск докера;
 docker-compose build,
+
 docker-compose up -d,
+
 docker-compose exec db psql --username=test_user --dbname=test_db.
 
 
