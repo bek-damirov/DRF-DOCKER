@@ -1,7 +1,9 @@
 # DRF-DOCKER
 Django-REST, по созданию постов, комментариев к ним и оценок от 1 до 5 с регистрацией автора и гостя.
 Завернут в Docker с базой данных Postgres.
+
 запуск докера;
+
 docker-compose build,
 
 docker-compose up -d,
